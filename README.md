@@ -5,3 +5,4 @@ tomcat、nginx、apache、mysql安全基线
 2. nginx 基线检查工具
 3. apache 基线检查工具
 4. mysql 基线检查工具
+5. Linux 基线检查脚本
