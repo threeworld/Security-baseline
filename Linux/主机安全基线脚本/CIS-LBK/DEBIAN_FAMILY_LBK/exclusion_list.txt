@@ -1,0 +1,12 @@
+###########################################
+# To exclude a recomendation from being   #
+# Implemented by the CIS Linux Build Kit  #
+# Please enter the recomendation number   #
+# of the recomendation you wish to        #
+# exclude on it's own line bellow         #
+###########################################
+
+# Example:
+# 2.2.2 # Elclude recommendation 2.2.2 - Ensure X Window System is not installed
+# 2.2.2
+# 4.1.17
